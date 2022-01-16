@@ -2,6 +2,10 @@
 
 ![my img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AkshithaReddy1899)
 
+![Aksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshithaReddy1899&&count_private=true&show_icons=true&hide=contribsa&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithaReddy1899&layout=compact&theme=dark&show_icons=true)
+
+<a href="mailto:YourEmail@gmail.com">![akshithareddy1899@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;<a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;&nbsp;<a href="<https://codepen.io/Akshitha_Reddy>">![Codepen](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen&logoColor=white&color=black)&nbsp;&nbsp;![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AkshithaReddy1899.AkshithaReddy1899)
 
 <!--
 **AkshithaReddy1899/AkshithaReddy1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
