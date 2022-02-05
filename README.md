@@ -11,7 +11,7 @@ I am Aksha, a self taught front-end developer from India.
 
 #
  
- <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithaReddy1899&theme=blue-green)-->
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithaReddy1899&theme=blue-green)
 
 ## Languages, frameworks and, tools
 
