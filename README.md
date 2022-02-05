@@ -10,6 +10,8 @@ I am Aksha, a self taught front-end developer from India.
 <a href="mailto:YourEmail@gmail.com">![akshithareddy1899@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;<a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;&nbsp;<a href="<https://codepen.io/Akshitha_Reddy>">![Codepen](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen&logoColor=white&color=black)&nbsp;&nbsp;![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AkshithaReddy1899.AkshithaReddy1899)
 
 #
+ 
+ <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshithaReddy1899&theme=blue-green)-->
 
 ## Languages, frameworks and, tools
 
