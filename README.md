@@ -7,7 +7,7 @@ I am Aksha, a self taught front-end developer from India.
 
 #
 
-<a href="mailto:YourEmail@gmail.com">![akshithareddy1899@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;<a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;&nbsp;<a href="<https://codepen.io/Akshitha_Reddy>">![Codepen](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen&logoColor=white&color=black)&nbsp;&nbsp;![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AkshithaReddy1899.AkshithaReddy1899)
+<a href="mailto:akshithareddy1899@gmail.com">![akshithareddy1899@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/akshitha-reddy-yadla/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;&nbsp;<a href="https://codepen.io/Akshitha_Reddy">![Codepen](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen&logoColor=white&color=black)&nbsp;&nbsp;![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AkshithaReddy1899.AkshithaReddy1899)
 
 #
  
@@ -26,11 +26,6 @@ I am Aksha, a self taught front-end developer from India.
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
-
-### Here's a joke for you
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
