@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/akshitha_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshitha_reddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshitha-reddy-yadla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitha-reddy-yadla" height="30" width="40" /></a>
+<a href="https://codepen.io/akshitha_reddy" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-02569B?style=for-the-badge$logo=codepen&logoColor=white" alt="akshitha_reddy" height="30" width="60" /></a>
+<a href="https://linkedin.com/in/akshitha-reddy-yadla" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-02569B?style=for-the-badge$logo=linkedin&logoColor=white" alt="akshitha-reddy-yadla" height="30" width="60" /></a>
 </p>
 
 <br />
